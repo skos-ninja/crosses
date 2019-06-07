@@ -13,7 +13,7 @@ To run this system you will need an instance of postgres and set your connection
 
 Once you have a postgres database available you will need to initialise the tables by running each of the `.sql` scripts in the `db` folder.
 
-Then simply run `go run cmd/crosses/corsses.go` and it will start and begin listening on port `8080`.
+Then simply run `go run cmd/crosses/crosses.go` and it will start and begin listening on port `8080`.
 
 ## Requests
 
